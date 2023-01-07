@@ -1,4 +1,4 @@
-![MasterHead](https://www.kookyinfomedia.com/assets/img/images/Gif.gif)
+![MasterHead](https://media.licdn.com/dms/image/C4D16AQF5oAtDQC8sTQ/profile-displaybackgroundimage-shrink_350_1400/0/1660470487880?e=1678320000&v=beta&t=sqBQDYOOBYND-rrKsDxdmXDORDpZwHs2FI8mbbplW9E)
 <h1 align="center">Hi 👋, I'm Shani Kumar Gupta</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
