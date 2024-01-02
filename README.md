@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQEWoFgFrjndTQ/profile-displaybackgroundimage-shrink_350_1400/0/1686421916392?e=1697673600&v=beta&t=RnlyTN8MmyRaOcY4uP1dh7ZV5oK_G7tc5L0TVYs7ie8)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQEWoFgFrjndTQ/profile-displaybackgroundimage-shrink_350_1400/0/1686421920569?e=1709769600&v=beta&t=BqN7_CL_GhwW2pDn7spPKSPKdLVXALdyNFPLLYULZ4s)
 <h1 align="center">Hi 👋, I'm Shani Kumar Gupta</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
